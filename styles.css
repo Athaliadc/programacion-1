@@ -1,0 +1,26 @@
+body {
+  display:flex;
+  justify-content: center;
+  font-family: "Arial";
+}
+
+.form-element {
+  margin-button:10px;
+}
+
+label{
+  text-transform: uppercase;
+}
+
+button {
+  background: #ddd;
+  border:0;
+  padding: 10px;
+}
+
+form {
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
